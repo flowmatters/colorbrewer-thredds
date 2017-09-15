@@ -6,9 +6,11 @@ import json
 import argparse
 
 HEADER='''
-# Generated palette file
 # Colorbrewer palette: %s %s
 # %d colours
+#
+# Generated palette file
+# Generated with https://github.com/flowmatters/colorbrewer-thredds
 # 
 '''
 
